@@ -1,0 +1,17 @@
+{
+	"name": "qrcode",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.html",
+	"scripts": {
+		"qrcode": "http-server ./qrcode"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"http-server": "^0.12.1",
+		"qrious": "^4.0.2",
+		"vue": "^2.6.11"
+	}
+}
